@@ -1,0 +1,6 @@
+{
+  "name": "TABLE",
+  "description": "Modern monochrome synchronized video streaming and duo-watching platform with glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
